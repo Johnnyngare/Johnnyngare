@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Johnny Ngare
 
 [![GitHub followers](https://img.shields.io/github/followers/Johnnyngare?style=social)](https://github.com/Johnnyngare)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Johnnyngare?style=social)](https://twitter.com/Johnnyngare)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Johnnyngare?style=social)]([https://twitter.com/Johnnyngare](https://x.com/MJthetechie))
 
 ## 🚀 About Me
 Computer Science graduate from Strathmore University with a passion for transforming ideas into code. I specialize in:
