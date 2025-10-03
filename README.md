@@ -6,7 +6,7 @@
 ## 🚀 About Me
 Computer Science graduate from Strathmore University with a passion for transforming ideas into code. I specialize in:
 - 🤖 Machine Learning
-- 🌐 IoT (Internet of Things)
+- 🌐 Web Development
 - 💻 Embedded Systems
 
 ## 🛠️ Tech Stack
