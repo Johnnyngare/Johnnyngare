@@ -114,8 +114,7 @@ End-to-end fraud detection system achieving 99.95% accuracy and 0.91 F1 score us
 
 ## GitHub Stats
 
-![Johnny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnyngare&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyngare&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
+![Johnny's GitHub Stats](https://streak-stats.demolab.com?user=Johnnyngare&theme=default&hide_border=true)
 
 ---
 
