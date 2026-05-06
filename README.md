@@ -4,7 +4,7 @@
 
 I build production web applications with real users, real data, and real consequences. Currently working as a Junior Developer at Aegir Consult on Stash-IT — a school-scoped digital wallet platform handling NFC student payments, M-Pesa top-ups, and role-based access across five user portals.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnny_Ngare-0A66C2?style=flat&logo=linkedin)][(https://linkedin.com/in/johnnyngare](https://www.linkedin.com/in/johnny-ngare-55228b229/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnny_Ngare-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/johnny-ngare-55228b229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FlowDesk-000000?style=flat&logo=vercel)](https://flowdesk-zeta.vercel.app)
 [![Email](https://img.shields.io/badge/Email-johnnyngare21@gmail.com-EA4335?style=flat&logo=gmail)](mailto:johnnyngare21@gmail.com)
 
@@ -114,8 +114,8 @@ End-to-end fraud detection system achieving 99.95% accuracy and 0.91 F1 score us
 
 ## GitHub Stats
 
-![Johnny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnyngare&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyngare&layout=compact&hide_border=true&theme=default)
+![Johnny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnyngare&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyngare&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
 
 ---
 
