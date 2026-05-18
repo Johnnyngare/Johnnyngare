@@ -1,6 +1,7 @@
 # Johnny Ngare
 
 **Frontend Developer** · Vue / Nuxt · TypeScript · Fintech Systems
+
 Currently shipping production features on a fintech NFC payment platform for Credit Bank partnership
 
 I build production web applications with real users, real data, and real consequences. Currently working as a Junior Developer at Aegir Consult on Stash-IT — a school-scoped digital wallet platform handling NFC student payments, M-Pesa top-ups, and role-based access across five user portals.
